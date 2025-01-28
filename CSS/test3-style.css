@@ -1,0 +1,23 @@
+/* Camal Case : YuwadeeGraden */
+/* Pascal Case : YuwadeeGraden */
+/* Snake Case : yuwadee_graden */
+/* Kebab Case : yuwadee-graden ใช้ได้แค่ WEB*/
+
+/* Selector{Property: Value;} */
+
+h1{
+    text-align: center;
+    color: #127873;
+    font-size: 250%;
+}
+h3{
+    color: #cebf1a;
+    font-size: 150%;
+    
+}
+strong{
+    display: block;
+    color: #790018;
+    text-align: center;
+    font-size: 140%;
+}
